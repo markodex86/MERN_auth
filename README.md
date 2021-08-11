@@ -22,8 +22,10 @@ This MERN Boilerplate requires these technologies to run:
 - [Node.js](https://nodejs.org/) v14+
 - [MongoDB](https://mongodb.com/) you can use local or MongoDB Atlas
 
+- after cloning the repository
+
 ```sh
-cd node-auth-
+cd MERN_auth
 cd ../server 
 npm i
 npm run dev
