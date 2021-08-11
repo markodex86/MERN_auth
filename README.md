@@ -1,5 +1,4 @@
 # MERN Auth Login/Signup Boilerplate
----
 
 full MERN stack Auth boilerplate to be able to use it for your next successful project.
 
@@ -36,6 +35,6 @@ npm start
 
 Here is a youtube playlist for how to build this boiler plate from scratch [Youtube Link](https://www.youtube.com/watch?v=xZ8kklrVxaM)
 
-Subscribe [here](https://bit.ly/3vj274R) ♥️
+Subscribe here! [Youtube](https://bit.ly/3vj274R) ♥️
 
 Stay curious!
